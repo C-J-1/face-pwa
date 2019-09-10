@@ -10,11 +10,12 @@ self.addEventListener('install', function(event) {
 			return cache.addAll([
 				'./',
 				"./index.html",
-        "./img/bg.jpg",
+				"./img/bg.jpg",
 				"./people.jpg",
 				"./style.css",
 				"./pico.js",
-        "./manifest.json"
+				"./manifest.json",
+				"./facefinder"
 			]);
 		})
 	);
