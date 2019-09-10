@@ -35,6 +35,12 @@ body, html {
   text-align: center;
 }
 
+.add-button {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+
 hr {
   margin: auto;
   width: 40%;

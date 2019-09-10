@@ -13,8 +13,9 @@ self.addEventListener('install', function(event) {
 				"./img/bg.jpg",
 				"./people.jpg",
 				"./style.css",
+				"./index.js",
 				"./pico.js",
-				"./manifest.json",
+				"./manifest.webmanifest",
 				"./facefinder"
 			]);
 		})
