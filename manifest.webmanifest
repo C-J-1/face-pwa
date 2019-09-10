@@ -2,7 +2,7 @@
   "short_name": "FacePWA",
   "name": "Face Detection PWA",
   "start_url": "./index.html",
-  "scope": "/",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#9199be",
   "theme_color": "#54678f",
